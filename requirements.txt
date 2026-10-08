@@ -3,4 +3,5 @@
 streamlit==1.64.0
 transformers==5.17.0
 torch==2.14.0
+torchvision
 sentencepiece

@@ -1,0 +1,7 @@
+[server]
+folderWatchBlacklist = [".venv", "venv"]
+headless = true
+fileWatcherType = "poll"
+
+[client]
+toolbarMode = "minimal"
